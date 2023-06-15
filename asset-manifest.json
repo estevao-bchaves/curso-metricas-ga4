@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/estevao-bchaves/curso-metricas-ga4.git/static/css/main.4fbc66eb.css",
-    "main.js": "/estevao-bchaves/curso-metricas-ga4.git/static/js/main.d3229e4e.js",
-    "static/media/image-2.jpg": "/estevao-bchaves/curso-metricas-ga4.git/static/media/image-2.0cf84591f1795ef0b04c.jpg",
-    "static/media/cart.png": "/estevao-bchaves/curso-metricas-ga4.git/static/media/cart.945af8c0243e4f170b78.png",
-    "static/media/ga4.jpg": "/estevao-bchaves/curso-metricas-ga4.git/static/media/ga4.42b30bb8f310f1167759.jpg",
-    "index.html": "/estevao-bchaves/curso-metricas-ga4.git/index.html",
-    "main.4fbc66eb.css.map": "/estevao-bchaves/curso-metricas-ga4.git/static/css/main.4fbc66eb.css.map",
-    "main.d3229e4e.js.map": "/estevao-bchaves/curso-metricas-ga4.git/static/js/main.d3229e4e.js.map"
+    "main.css": "/curso-metricas-ga4/static/css/main.4fbc66eb.css",
+    "main.js": "/curso-metricas-ga4/static/js/main.c780ae8a.js",
+    "static/media/image-2.jpg": "/curso-metricas-ga4/static/media/image-2.0cf84591f1795ef0b04c.jpg",
+    "static/media/cart.png": "/curso-metricas-ga4/static/media/cart.945af8c0243e4f170b78.png",
+    "static/media/ga4.jpg": "/curso-metricas-ga4/static/media/ga4.42b30bb8f310f1167759.jpg",
+    "index.html": "/curso-metricas-ga4/index.html",
+    "main.4fbc66eb.css.map": "/curso-metricas-ga4/static/css/main.4fbc66eb.css.map",
+    "main.c780ae8a.js.map": "/curso-metricas-ga4/static/js/main.c780ae8a.js.map"
   },
   "entrypoints": [
     "static/css/main.4fbc66eb.css",
-    "static/js/main.d3229e4e.js"
+    "static/js/main.c780ae8a.js"
   ]
 }
