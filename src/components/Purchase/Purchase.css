@@ -1,0 +1,42 @@
+.container-purchase {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #333;
+}
+
+.thank-you {
+  max-width: 80vh;
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.15);
+  text-align: center;
+}
+
+.thank-you h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #333333;
+}
+
+.thank-you p {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #000000;
+}
+
+.thank-you .emoji {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.thank-you .emoji::before {
+  content: "\\1F973";
+}
+
+.thank-you .emoji::after {
+  content: "\\1F389";
+}
